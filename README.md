@@ -3,11 +3,10 @@ Some algorithms in Graph Theory.
 
 ## Content
 
-+ [Havel-Hakimi Thoerem](#Havel-Hakimi)
++ [Havel-Hakimi Thoerem](#Havel-Hakimi-Theorem)
 
-<span id="Havel-Hakimi"></span>
 
-### Havel-Hakimi Thoerem
+### Havel-Hakimi-Theorem
 
 This thoerem check if the given degree sequence is graphic. 
 
